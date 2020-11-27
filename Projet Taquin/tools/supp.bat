@@ -1,0 +1,2 @@
+del fichierDuTaquinResolu.txt
+del fichierDuTaquinEnCours.txt

@@ -1,0 +1,27 @@
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.exe.config
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.exe
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.pdb
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.xml
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form1.resources
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form2.resources
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form3.resources
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Resources.resources
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.vbproj.GenerateResource.cache
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.vbproj.CoreCompileInputs.cache
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.exe
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.xml
+I:\IUT\IHM VB\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.pdb
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.vbprojAssemblyReference.cache
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form1.resources
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form2.resources
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Form3.resources
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet_Taquin.Resources.resources
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.vbproj.GenerateResource.cache
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.vbproj.CoreCompileInputs.cache
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.exe
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.xml
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\obj\Debug\Projet Taquin.pdb
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.exe.config
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.exe
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.pdb
+F:\Final Projet Taquin\Projet Taquin\Projet Taquin\bin\Debug\Projet Taquin.xml
